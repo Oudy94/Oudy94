@@ -21,6 +21,6 @@ funcition repeat(){
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oudy94&count_private=true&show_icons=true&theme=dracula)](https://github.com/Oudy94/)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oudy94)](https://github.com/Oudy94/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oudy94&layout=compact)]((https://github.com/Oudy94/)
 
 
