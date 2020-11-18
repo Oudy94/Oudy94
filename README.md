@@ -1,5 +1,4 @@
-[![Header](https://github.com/Oudy94/Oudy94/tree/main/Images/code-header-1.jpg "Header")](https://github.com/Oudy94/)
-
+[![Header](https://raw.githubusercontent.com/Oudy94/Oudy94/main/Images/code-header-1.jpg "Header")](https://github.com/Oudy94/)
 
 ### Hi there 👋
 
