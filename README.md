@@ -5,6 +5,7 @@
 've started programming 4 years ago when I decided to work on online game(using:C++, Python, Lua) and still working on it so far.<br/>
 Programming always been my passion, I love to challang myself 💪</p>
 
+<h3 align=>My life function...</h3>
 ```Javascript
 funcition repeat(){
   gym();
