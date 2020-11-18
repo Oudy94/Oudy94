@@ -5,7 +5,7 @@
 've started programming 4 years ago when I decided to work on online game(using:C++, Python, Lua) and still working on it so far 🔨.<br/>
 Programming always been my passion, I love to challang myself 💪</p>
 
-You can find me on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]][https://www.linkedin.com/in/heinz-martin/].
+You can find me on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png][https://www.linkedin.com/in/heinz-martin/].
 
 
 <h3 align=>My life function...</h3>
