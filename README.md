@@ -7,21 +7,23 @@
 Programming always been my passion, I love to challenge myself 💪</p>
 
 You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://linkedin.com/in/Oudy94)
+<br />
 
-<h3 align=>My life function...</h3>
-
+<h2 align=>My life function...</h2>
 ```Javascript
 funcition repeat(){
+  code();
   gym();
   football();
   videoGames();
-  code();
   eat();
   sleep();
-  repeate();
+  repeat();
  }
 ```
+<br />
 
+<h1 align=>Statistics</h1>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oudy94&count_private=true&show_icons=true&theme=dracula)](https://github.com/Oudy94/)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oudy94&theme=tokyonight)
