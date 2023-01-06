@@ -1,10 +1,10 @@
 [![Header](https://raw.githubusercontent.com/Oudy94/Oudy94/main/images/header.jpg "Header")](https://github.com/Oudy94/)
 
 <h2 align=>Hello there!👋👽</h2>
-<p align=>My name is Saoud Ba-khmais , 'm a Web Developer with a BSc in Electrical and Electronics Engineering, living in Netherland 🇳🇱, .<br/>
+<p align=>My name is Saoud, 'm a Web Developer with a BSc in Electrical and Electronics Engineering, living in Netherland 🇳🇱, .<br/>
 Full-stack developer ( HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS ) .<br/>
 <br/>
-I love to challenge myself 💪</p>
+love to challenge myself 💪</p>
 
 You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://linkedin.com/in/Oudy94)
 <br />
