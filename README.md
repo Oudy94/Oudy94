@@ -1,8 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Oudy94/Oudy94/main/images/header.jpg "Header")](https://github.com/Oudy94/)
 
 <h2 align=>Hello there!👋👽</h2>
-<p align=>My name is Saoud, 'm a Web Developer with a BSc in Electrical and Electronics Engineering, living in Netherland 🇳🇱, .<br/>
-Full-stack developer ( HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS ) .<br/>
+<p align=>My name is Saoud, a Software Engineer 🇳🇱, .<br/>
 <br/>
 love to challenge myself 💪</p>
 
